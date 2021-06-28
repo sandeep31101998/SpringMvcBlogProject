@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-	
-	<a href="/springmvc/src/main/webapp/WEB-INF/views/movie.jsp">Movies</a>
-	
-</body>
-</html>
