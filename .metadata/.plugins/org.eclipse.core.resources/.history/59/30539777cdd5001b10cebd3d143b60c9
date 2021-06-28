@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+	
+	<form action="movie">
+		<button type="submit">Movie</button>
+	</form>
+	
+</body>
+</html>

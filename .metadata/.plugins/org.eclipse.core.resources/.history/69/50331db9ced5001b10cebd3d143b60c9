@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<form action="movie">
+		<button type="submit">Movie</button>
+	</form>
+	<br>
+
+	<form action="sports">
+		<button type="submit">Sports</button>
+	</form>
+	<br>
+
+	<form action="food">
+		<button type="submit">Food</button>
+	</form>
+
+</body>
+</html>
